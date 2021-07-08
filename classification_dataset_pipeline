@@ -1,0 +1,10 @@
+data
+  train
+    class1 (folder name) # 1 to 10 images
+    class2 (folder name) # 1 to 10 images
+    class3 (folder name) # 1 to 10 images
+  
+  test
+    class1 (folder name) # 11 to 12 images
+    class2 (folder name) # 11 to 12 images
+    class3 (folder name) # 11 to 12 images
